@@ -13,7 +13,8 @@ python imagenet_main.py
 
 
 #### Citation
-If you find this paper or this repository helpful, please cite it:
+If you find this paper or this repository helpful, please cite it:  
+
 @inproceedings{
 wageubn,
 title={Training High-Performance and Large-Scale Deep Neural Networks with Full 8-bit Integers},

@@ -43,7 +43,7 @@ parser.add_argument(
     help='The directory where the ImageNet input data is stored.')
 
 parser.add_argument(
-    '--model_dir', type=str, default='../model',
+    '--model_dir', type=str, default='./model',
     help='The directory where the model will be stored.')
 
 parser.add_argument(
@@ -389,8 +389,8 @@ def main(unused_argv):
         input_fn=lambda: input_fn(False, FLAGS.data_dir, FLAGS.batch_size))
     print(eval_results)
     eval_record.append(eval_results)
-    np.save('../data/eval_results.npy',eval_record)  
-  np.save('../data/eval_results_final.npy',eval_record)
+    np.save('./data/eval_results.npy',eval_record)  
+  np.save('./data/eval_results_final.npy',eval_record)
 
 
 
