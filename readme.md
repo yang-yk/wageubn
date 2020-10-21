@@ -13,7 +13,7 @@ ImageNet dataset``
 #### Citation:
 If you find this paper or this repository helpful, please cite it:  
 
-@article{YANG202070,
+@article{YANG202070,  
 title = "Training high-performance and large-scale deep neural networks with full 8-bit integers",  
 journal = "Neural Networks",  
 volume = "125",  
