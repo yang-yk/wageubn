@@ -13,12 +13,12 @@ ImageNet dataset``
 #### Citation:
 If you find this paper or this repository helpful, please cite it:  
 
-@inproceedings{  
-wageubn,   
-title={Training High-Performance and Large-Scale Deep Neural Networks with Full 8-bit Integers},   
-author={Yukuan Yang, Shuang Wu, Lei Deng, Tianyi Yan, Yuan Xie, Guoqi Li},   
-booktitle={arXiv:1909.02384},   
-year={2019},   
-url={https://arxiv.org/abs/1909.02384?context=cs.LG}   
-}.
-
+@article{YANG202070,
+title = "Training high-performance and large-scale deep neural networks with full 8-bit integers",
+journal = "Neural Networks",
+volume = "125",
+pages = "70 - 82",
+year = "2020",
+issn = "0893-6080",
+author = "Yukuan Yang and Lei Deng and Shuang Wu and Tianyi Yan and Yuan Xie and Guoqi Li",
+}
