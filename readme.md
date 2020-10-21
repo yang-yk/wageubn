@@ -20,5 +20,5 @@ volume = "125",
 pages = "70 - 82",
 year = "2020",
 issn = "0893-6080",
-author = "Yukuan Yang and Lei Deng and Shuang Wu and Tianyi Yan and Yuan Xie and Guoqi Li",
+author = "Yukuan Yang and Lei Deng and Shuang Wu and Tianyi Yan and Yuan Xie and Guoqi Li"
 }
